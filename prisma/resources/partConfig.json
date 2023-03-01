@@ -1,0 +1,357 @@
+[
+ {
+   "part_id": 1,
+   "additional": "Length: 125, 150",
+   "part_configuration": "Dual hole 125/150mm, Aluminium 6061"
+ },
+ {
+   "part_id": 2,
+   "additional": "Length: 127",
+   "part_configuration": "127mm, Chrome plated steel"
+ },
+ {
+   "part_id": 2,
+   "additional": "Length: 152",
+   "part_configuration": "152mm, Chrome plated steel"
+ },
+ {
+   "part_id": 3,
+   "additional": "",
+   "part_configuration": "Without third hole, without screws"
+ },
+ {
+   "part_id": 3,
+   "additional": "",
+   "part_configuration": "With third hole, without screws"
+ },
+ {
+   "part_id": 4,
+   "additional": "Length: 125",
+   "part_configuration": "125mm, Titanium"
+ },
+ {
+   "part_id": 5,
+   "additional": "",
+   "part_configuration": "M12, titanium"
+ },
+ {
+   "part_id": 6,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Custom, Titanium"
+ },
+ {
+   "part_id": 7,
+   "additional": "Length: 110",
+   "part_configuration": "2012+, 110mm, single hole"
+ },
+ {
+   "part_id": 7,
+   "additional": "Length: 127",
+   "part_configuration": "2012+, 127mm, single hole"
+ },
+ {
+   "part_id": 7,
+   "additional": "Length: 137",
+   "part_configuration": "2012+, 137mm, single hole"
+ },
+ {
+   "part_id": 7,
+   "additional": "Length: 110, 127",
+   "part_configuration": "2012-2018?, 110/127mm dual hole (with disk mount)"
+ },
+ {
+   "part_id": 7,
+   "additional": "Length: 110, 137",
+   "part_configuration": "2012+, 110/137mm dual hole (with disk mount)"
+ },
+ {
+   "part_id": 7,
+   "additional": "Length: 117, 137",
+   "part_configuration": "2012+, 117/137mm dual hole (with disk mount)"
+ },
+ {
+   "part_id": 7,
+   "additional": "Length: 127, 150",
+   "part_configuration": "2012+, 127/150mm dual hole (with disk mount)"
+ },
+ {
+   "part_id": 8,
+   "additional": "",
+   "part_configuration": "With short straight bar"
+ },
+ {
+   "part_id": 9,
+   "additional": "",
+   "part_configuration": "Pre 2020? Blue, 137mm Spirit cranks, Maxxis Creepy Crawler, KH Fusion Slim"
+ },
+ {
+   "part_id": 10,
+   "additional": "",
+   "part_configuration": "Pre 2020? Blue, 117/137 Spirit cranks, Duro Wildlife Leopard 24x3\", KH Fusion One"
+ },
+ {
+   "part_id": 11,
+   "additional": "",
+   "part_configuration": "Pre 2020? Blue, 113/137 Spirit cranks, Duro Crux 27.5x3.25\", KH Fusion One"
+ },
+ {
+   "part_id": 12,
+   "additional": "",
+   "part_configuration": "Pre 2020? Blue, 127/150 Spirit cranks, Duro Crux 29x3.25\", KH Fusion One"
+ },
+ {
+   "part_id": 13,
+   "additional": "",
+   "part_configuration": "Pre 2020? Blue, 127/150 Spirit cranks, Qu-Ax King George 36x2.25\", KH Fusion One"
+ },
+ {
+   "part_id": 13,
+   "additional": "",
+   "part_configuration": "Pre 2020? Blue, 127/150 Spirit cranks, Nimbus Nightrider 36x2.25\", KH Fusion One"
+ },
+ {
+   "part_id": 14,
+   "additional": "Mount: Pivotal",
+   "part_configuration": "2018+?, Pivotal mount"
+ },
+ {
+   "part_id": 15,
+   "additional": "Mount: 4 bolt",
+   "part_configuration": "2018+?, 4 bolt mount"
+ },
+ {
+   "part_id": 16,
+   "additional": "Mount: 4 bolt",
+   "part_configuration": "2018+?, 4 bolt mount"
+ },
+ {
+   "part_id": 17,
+   "additional": "Mount: 4 bolt",
+   "part_configuration": "2018+?, 4 bolt mount"
+ },
+ {
+   "part_id": 18,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Silver, with bolts and spacers"
+ },
+ {
+   "part_id": 19,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "KH Schlumpf (<2015?) Serial ?"
+ },
+ {
+   "part_id": 20,
+   "additional": "",
+   "part_configuration": "2016? (with drilled out ovalised holes)"
+ },
+ {
+   "part_id": 21,
+   "additional": "",
+   "part_configuration": "2016? (with drilled out ovalised holes)"
+ },
+ {
+   "part_id": 22,
+   "additional": "",
+   "part_configuration": "2016? (with drilled out ovalised holes)"
+ },
+ {
+   "part_id": 23,
+   "additional": "",
+   "part_configuration": "2016? (no holes)"
+ },
+ {
+   "part_id": 24,
+   "additional": "",
+   "part_configuration": "2016? (no holes)"
+ },
+ {
+   "part_id": 25,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "2016+?, blue"
+ },
+ {
+   "part_id": 26,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "2016+?, blue, with IS disk mount only"
+ },
+ {
+   "part_id": 27,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "2016+?, blue, with IS disk mount only"
+ },
+ {
+   "part_id": 28,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "2016+?, blue, with IS disk mount only"
+ },
+ {
+   "part_id": 29,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "2016+?, blue, with IS disk mount only"
+ },
+ {
+   "part_id": 30,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "2016+?, blue, with IS disk mount only"
+ },
+ {
+   "part_id": 10,
+   "additional": "",
+   "part_configuration": "05 Freeride"
+ },
+ {
+   "part_id": 31,
+   "additional": "",
+   "part_configuration": "Torker DX '06"
+ },
+ {
+   "part_id": 32,
+   "additional": "4-ply",
+   "part_configuration": "4-ply, wire bead (2006)"
+ },
+ {
+   "part_id": 33,
+   "additional": "4-ply",
+   "part_configuration": "4-ply, wire bead (2006)"
+ },
+ {
+   "part_id": 34,
+   "additional": "Spacing: 100",
+   "part_configuration": "Cro-Mo"
+ },
+ {
+   "part_id": 35,
+   "additional": "9/16",
+   "part_configuration": "Ti Axle"
+ },
+ {
+   "part_id": 35,
+   "additional": "9/16",
+   "part_configuration": "Steel Axle"
+ },
+ {
+   "part_id": 36,
+   "additional": "6/16",
+   "part_configuration": "Polycarbonate, various colours"
+ },
+ {
+   "part_id": 37,
+   "additional": "6/16",
+   "part_configuration": "Myata Cross Pedals"
+ },
+ {
+   "part_id": 38,
+   "additional": "6/16",
+   "part_configuration": "Addict Plastic Pedals (2009)"
+ },
+ {
+   "part_id": 39,
+   "additional": "6/16",
+   "part_configuration": "Addict Aluminium Pedals (2009)"
+ },
+ {
+   "part_id": 40,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Cro-Mo (2009)"
+ },
+ {
+   "part_id": 41,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Cro-Mo (2009)"
+ },
+ {
+   "part_id": 25,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Short (2007), blue"
+ },
+ {
+   "part_id": 25,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Short (2008), blue"
+ },
+ {
+   "part_id": 25,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Longneck (2009), blue"
+ },
+ {
+   "part_id": 25,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Longneck double crown (2008), raw"
+ },
+ {
+   "part_id": 42,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Alu, (2009)"
+ },
+ {
+   "part_id": 43,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Cro-Mo(2009)"
+ },
+ {
+   "part_id": 44,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2009)"
+ },
+ {
+   "part_id": 45,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2009)"
+ },
+ {
+   "part_id": 46,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2009)"
+ },
+ {
+   "part_id": 47,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2009)"
+ },
+ {
+   "part_id": 48,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2009)"
+ },
+ {
+   "part_id": 49,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2009)"
+ },
+ {
+   "part_id": 26,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2008), blue, magura mounts"
+ },
+ {
+   "part_id": 27,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2008), blue, magura mounts"
+ },
+ {
+   "part_id": 50,
+   "additional": "",
+   "part_configuration": "Cro-Mo, (2009)"
+ },
+ {
+   "part_id": 51,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Cro-Mo, (2009)"
+ },
+ {
+   "part_id": 29,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2008), blue, magura mounts"
+ },
+ {
+   "part_id": 52,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "Cro-Mo, (2009)"
+ },
+ {
+   "part_id": 30,
+   "additional": "Bearing spacing: 100",
+   "part_configuration": "(2008), blue, magura mounts"
+ }
+]

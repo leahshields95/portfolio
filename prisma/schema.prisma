@@ -1,0 +1,48 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model User {
+  id               Int                @id @default(autoincrement())
+  name             String
+  email            String
+  MeasuredPartMass MeasuredPartMass[]
+}
+
+model Part {
+  id           Int          @id @default(autoincrement())
+  category     String
+  subcategory  String
+  manufacturer String
+  name         String
+  PartConfig   PartConfig[]
+}
+
+model PartConfig {
+  id               Int                @id @default(autoincrement())
+  part             Part               @relation(fields: [part_id], references: [id])
+  part_id           Int
+  additional       String?
+  part_configuration      String
+  MeasuredPartMass MeasuredPartMass[]
+}
+
+model MeasuredPartMass {
+  id            Int        @id @default(autoincrement())
+  config        PartConfig @relation(fields: [configuration_id], references: [id])
+  configuration_id  Int
+  user          User       @relation(fields: [user_id], references: [id])
+  user_id        Int
+  precision     Int
+  measured_mass Int
+  manufacturer_mass Int
+  new           Boolean
+  date          String
+  customisation String?
+  notes         String
+}
